@@ -1,0 +1,22 @@
+#pic1, #pic2, #pic3, #pic4, #pic5, #pic6, #pic6, #pic7, #pic8, #pic9{
+    width: auto;
+    height: 200px;
+}
+#body{
+    background-color: lightgray;
+}
+
+.pad{
+    padding: 75px;
+
+}
+#pesos{
+    color: red;
+}
+.carousel-inner img{
+    margin-left: 5rem;
+}
+.about{
+    font-size: 100px;
+}
+
